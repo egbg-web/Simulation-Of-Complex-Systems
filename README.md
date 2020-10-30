@@ -1,2 +1,2 @@
-# Simulation-Of-Complex-Systems
+# FFR120 - Simulation-Of-Complex-Systems
 The course introduces the students to simulation techniques frequently used in complex systems, emphasising agent based modelling and networks. We discuss examples of applications in physics, biology and social science. The aim of the course is to 1) give the students the level of understanding needed to decide on simulation methodology for a specific problem, 2) define and implement a moderate size simulation project, and 3) evaluate the results from their simulations.
